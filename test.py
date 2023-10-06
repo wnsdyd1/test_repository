@@ -1,1 +1,1 @@
-print("test")
+print("test중입니다")
